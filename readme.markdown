@@ -16,11 +16,9 @@ Theme built off of Generic Bootstrap to convert UCF.edu into a responsive WordPr
 
 ## Required Plugins
 * Gravity Forms
-* Varnish Dependency Purger
 
 ## Recommended Plugins
 * WordPress SEO
-
 
 ## Installation Requirements
 
