@@ -1,4 +1,4 @@
-#Out of date and not updated, originally Ucf.edu theme
+#CREOL Theme
 
 Added remote repository for gitlab
 Created alias for pushes to both origin and gitlab repos
